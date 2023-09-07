@@ -17,4 +17,4 @@
 - Shutdown/Reboot/Update to newer macOS builds over time
   
 ## What doesn't work
-- Harware Acceleration
+- Nothing
